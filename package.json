@@ -1,6 +1,6 @@
 {
   "name": "silly-text-wrapper-splitter",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "description": "Wrap or split your text with more text",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/acdarroll/test-npm#readme",
   "dependencies": {
-    "react-silly-text-maker": "^0.2.0"
+    "react-silly-text-maker": "^0.1.0"
   }
 }
