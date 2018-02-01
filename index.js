@@ -1,8 +1,8 @@
 module.exports = {
-  function wrap(string, wrapper) {
+  wrap (string, wrapper) {
     return wrapper + string + wrapper;
-  }
-  function split(string, split) {
+  },
+  split (string, split) {
     let letters = string.split("")
     let format = ""
     letters.forEach((letter, i) => {
@@ -10,9 +10,5 @@ module.exports = {
       format += letter + split
     })
     return format;
-  }
-  return {
-    wrap,
-    split
   }
 }
