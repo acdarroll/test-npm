@@ -1,0 +1,26 @@
+{
+  "name": "silly-text-wrapper-splitter",
+  "version": "0.1.0",
+  "description": "Wrap or split your text with more text",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/acdarroll/test-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "module"
+  ],
+  "author": "Andrew",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/acdarroll/test-npm/issues"
+  },
+  "homepage": "https://github.com/acdarroll/test-npm#readme",
+  "dependencies": {
+    "react-silly-text-maker": "^0.1.0"
+  }
+}
