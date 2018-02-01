@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/acdarroll/test-npm#readme",
   "dependencies": {
-    "react-silly-text-maker": "^0.1.0"
+    "react-silly-text-maker": "^0.2.0"
   }
 }
